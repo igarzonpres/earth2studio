@@ -258,8 +258,8 @@ url = "https://download.pytorch.org/whl/cpu"
 explicit = true
 
 [[tool.uv.index]]
-name = "pytorch-cu128"
-url = "https://download.pytorch.org/whl/cu128"
+name = "pytorch-cu13"
+url = "https://download.pytorch.org/whl/cu13"
 explicit = true
 
 [exclude.uv.workspace]
